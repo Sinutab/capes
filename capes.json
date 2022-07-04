@@ -29,4 +29,19 @@
     ],
     "is_premium": true
   }
+  {
+    "id": 927966451019685978,
+    "capes": [
+      {
+        "cape_uuid": "00002",
+        "player_uuid": "d831ebef-7f41-42ac-a773-2a9cd6d5de3f",
+        "type": "DEV",
+        "color": {
+          "primary": "272727",
+          "border": "363636"
+        }
+      }
+    ],
+    "is_premium": true
+  }
 ]
